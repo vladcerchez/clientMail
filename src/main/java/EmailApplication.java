@@ -12,11 +12,11 @@ public class EmailApplication {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("EMAIL CLIENT APPLICATION");
         try {
-            String emailAddress = "adrianchihai69@gmail.com";
+            String emailAddress = "1ndependenttt9@gmail.com";
             System.out.print("Logging in... " + emailAddress);
-            String password = "nkxh dzvd syoj dihi";
+            String password = "youWillNeverGetMyPassword";
 
-         /* System.out.print("Enter your email: ");
+         /* System.out.print("Enter your email: "); // for introducing manually
             String emailAddress = reader.readLine();
             System.out.print("Enter your password: ");
             String password = reader.readLine(); */
